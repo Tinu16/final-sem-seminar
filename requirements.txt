@@ -1,0 +1,8 @@
+txtai[all]
+streamlit
+PyPDF2
+scipy
+transformers
+soundfile
+langchain
+sentence_transformers
